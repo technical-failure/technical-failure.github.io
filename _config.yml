@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Inderpreet Singh
+bio: Doing Everything the long way around
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about every stupid experience I have ever had
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: http://technical-failure.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
